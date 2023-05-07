@@ -1,74 +1,100 @@
 1
-00:00:00,181 --> 00:00:01,489
+00:00:00,239 --> 00:00:01,309
 Kính thưa đồng bào!
 
 2
-00:00:01,489 --> 00:00:05,220
-Đang xảy ra chiến tranh, đất nước ta
+00:00:01,489 --> 00:00:04,915
+Chiến tranh đang xảy ra, đất nước ta
 bị quân xâm lược bao vây!
 
 3
-00:00:05,220 --> 00:00:06,939
-Tuy nhiên, Lãnh Tụ Vĩ Đại
-của ta chẳng làm gì khác
+00:00:05,135 --> 00:00:06,363
+Nhưng Lãnh Tụ Vĩ Đại của ta
 
 4
-00:00:06,939 --> 00:00:10,549
+00:00:06,450 --> 00:00:08,447
+chẳng làm gì khác
 ngoài truy tìm nội gián
-trong nỗ lực bám víu quyền lực!
 
 5
-00:00:10,549 --> 00:00:15,365
-Nhà nước liên tục gửi đến chúng ta những
-lời kêu gọi giả dối: "Tổ quốc lâm nguy!",
+00:00:08,543 --> 00:00:10,321
+trong nỗ lực bám víu quyền lực!
 
 6
-00:00:15,365 --> 00:00:17,109
+00:00:10,616 --> 00:00:13,462
+Nhà nước liên tục gửi đến chúng ta
+những lời kêu gọi giả dối:
+
+7
+00:00:13,566 --> 00:00:15,296
+"Tổ quốc lâm nguy!",
+
+8
+00:00:15,393 --> 00:00:17,109
 trên các phương tiện thông tin đại chúng
 do Đảng kiểm soát thì
 
-7
-00:00:17,109 --> 00:00:21,206
-liên tục kêu gọi công nhân và nông dân
-truy tìm gián điệp trong chính gia đình họ!
+9
+00:00:17,188 --> 00:00:18,872
+liên tục kêu gọi
+công nhân và nông dân
 
-8
-00:00:21,206 --> 00:00:23,888
+10
+00:00:18,958 --> 00:00:21,089
+truy tìm gián điệp
+trong chính gia đình họ!
+
+11
+00:00:21,206 --> 00:00:23,898
 Đã đến lúc phải dứt khoát
 nói "không" với sự đàn áp này!
 
-9
-00:00:24,571 --> 00:00:27,643
-Hàng trăm nghìn nhân dân lao động
-đã hưởng ứng lời kêu gọi của chúng tôi,
-
-10
-00:00:27,643 --> 00:00:31,241
-và đang chung tay hỗ trợ cho sự nghiệp Cách mạng
-cũng như chào đón sự xuất hiện của "Tương Lai Mới"!
-
-11
-00:00:31,241 --> 00:00:34,694
-Sự tàn phá, tan rã cùng
-nạn đói ngày càng gia tăng!
-
 12
-00:00:34,694 --> 00:00:37,117
+00:00:24,628 --> 00:00:27,543
+Hàng trăm nghìn nhân dân lao động
+đã hưởng ứng lời kêu gọi này,
+
+13
+00:00:27,634 --> 00:00:29,350
+và đang chung tay hỗ trợ
+cho sự nghiệp Cách mạng,
+
+14
+00:00:29,361 --> 00:00:31,149
+cũng như chào đón
+sự xuất hiện của "Tương Lai Mới"!
+
+15
+00:00:31,244 --> 00:00:34,516
+Sự tàn phá, tan rã cùng nạn đói
+trong quốc gia ngày càng gia tăng!
+
+16
+00:00:34,623 --> 00:00:37,004
 Lời kêu gọi của chúng tôi
 như hồi chuông cảnh tỉnh:
 
-13
-00:00:37,117 --> 00:00:42,945
-Phải toàn lực xác định và đánh bại kẻ thù thực sự -
-chế độ chuyên chế của kẻ tự xưng Lãnh Tụ Vĩ Đại
+17
+00:00:37,117 --> 00:00:39,851
+Phải toàn lực xác định
+và đánh bại kẻ thù thực sự:
 
-14
-00:00:42,945 --> 00:00:45,384
+18
+00:00:39,988 --> 00:00:42,378
+Chế độ chuyên chế
+của kẻ tự xưng Lãnh Tụ Vĩ Đại
+
+19
+00:00:42,890 --> 00:00:45,278
 Tham gia phong trào,
 hướng tới một ngày mai tươi mới!
 
-15
-00:00:45,384 --> 00:00:48,966
-Hãy nói thẳng, nói thật, cùng lan truyền
-lời gọi này khắp các thành phố và làng mạc!
+20
+00:00:45,384 --> 00:00:46,573
+Hãy nói thẳng, nói thật,
+
+21
+00:00:46,639 --> 00:00:48,973
+cùng lan truyền lời gọi này
+khắp các thành phố và làng mạc!
 

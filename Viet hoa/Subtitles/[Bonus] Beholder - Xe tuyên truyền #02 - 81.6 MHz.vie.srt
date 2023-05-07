@@ -1,141 +1,180 @@
 1
-00:00:00,216 --> 00:00:01,527
-Xin chào, các bạn nhỏ! 
+00:00:00,190 --> 00:00:01,610
+Xin chào, các bạn nhỏ!
 
 2
-00:00:01,816 --> 00:00:07,061
+00:00:01,833 --> 00:00:06,964
 Hôm nay, chúng tôi sẽ kể cho bạn nghe
 câu chuyện cổ tích về ba chú lợn con.
 
 3
-00:00:07,715 --> 00:00:13,753
-Ngày xửa ngày xưa, trong tòa
-chung cư khổng lồ do Sói Xám quản lý.
+00:00:07,793 --> 00:00:09,126
+Ngày xửa ngày xưa,
 
 4
-00:00:14,117 --> 00:00:17,633
-Có ba anh em nhà lợn sống ở đấy.
+00:00:09,280 --> 00:00:13,720
+trong tòa chung cư khổng lồ
+do Sói Xám quản lý.
 
 5
-00:00:17,633 --> 00:00:22,659
-Tên của của họ lần lượt là:
-Nih-Nih, Nah-Nah, và Nuh-Nuh.
+00:00:14,117 --> 00:00:17,395
+Có ba anh em nhà lợn sống ở đấy.
 
 6
-00:00:23,291 --> 00:00:27,244
-Nih-Nih rất nghèo, chú phải
-ngủ trên một tấm đệm rơm,
+00:00:17,658 --> 00:00:22,651
+Tên của của họ lần lượt là:
+Nih-Nih, Nah-Nah và Nuh-Nuh.
 
 7
-00:00:27,244 --> 00:00:30,964
+00:00:23,327 --> 00:00:27,175
+Nih-Nih rất nghèo,
+chú phải ngủ trên một tấm đệm rơm,
+
+8
+00:00:27,298 --> 00:00:30,858
 và dùng những mảnh giẻ vụn
 đóng tạm vào tường thay cho cửa.
 
-8
-00:00:30,964 --> 00:00:36,983
-Chú có một quyển nhật ký, trong đấy chú ghi lại
-tất cả các bất bình của mình với chủ nhà.
-
 9
-00:00:36,983 --> 00:00:39,492
+00:00:31,058 --> 00:00:32,937
+Chú có một quyển nhật ký,
+
+10
+00:00:33,054 --> 00:00:36,784
+chú ghi chép lại tất cả những bất bình
+của mình với chủ nhà.
+
+11
+00:00:37,000 --> 00:00:39,492
 Chú ta chắc chắn nhà mình
 vững chắc như một pháo đài
 
-10
-00:00:39,492 --> 00:00:43,465
+12
+00:00:39,612 --> 00:00:43,375
 và tin rằng sẽ không ai
 tìm thấy được quyển nhật ký.
 
-11
-00:00:44,062 --> 00:00:46,892
+13
+00:00:44,136 --> 00:00:46,798
 Nah-Nah khấm khá hơn em trai mình.
 
-12
-00:00:46,892 --> 00:00:52,197
+14
+00:00:47,021 --> 00:00:52,042
 Chú ta có giường nệm, cửa nhà
 được đóng bằng ván ép và có then cài.
 
-13
-00:00:52,197 --> 00:00:56,021
+15
+00:00:52,402 --> 00:00:55,860
 Vào đêm, Nah-Nah thích
 dò sóng phát thanh trên vô tuyến.
 
-14
-00:00:56,021 --> 00:01:02,107
-Không lâu sau, chú ta dò được tần số
-của đài nước ngoài bị Sói Xám cấm.
-
-15
-00:01:03,198 --> 00:01:06,502
-Người anh cả, Nuh-Nuh, vô cùng 
-hài lòng với cuộc sống hiện tại.
-
 16
-00:01:06,502 --> 00:01:08,378
-Chú ta có một
-chiếc giường đôi ngoại cỡ,
+00:00:56,070 --> 00:00:56,854
+Không lâu sau,
 
 17
-00:01:08,378 --> 00:01:12,150
+00:00:56,960 --> 00:01:02,347
+chú ta dò được tần số của đài nước ngoài
+mà Sói Xám đã cấm.
+
+18
+00:01:03,148 --> 00:01:06,452
+Người anh cả, Nuh-Nuh,
+vô cùng hài lòng với cuộc sống hiện tại.
+
+19
+00:01:06,580 --> 00:01:08,353
+Chú có một chiếc giường đôi ngoại cỡ,
+
+20
+00:01:08,435 --> 00:01:12,074
 và một cánh cửa bằng gỗ sồi kiên cố
 cùng một ổ khóa bằng sắt khá to.
 
-18
-00:01:12,150 --> 00:01:14,739
+21
+00:01:12,201 --> 00:01:14,593
 Chú ta là Bộ trưởng
 Bộ Lương thực và Thực phẩm,
 
-19
-00:01:14,739 --> 00:01:20,354
-sống vương giả nhờ việc bán lại thực phẩm
-ăn cắp được cho các em của mình.
-
-20
-00:01:20,354 --> 00:01:25,139
-Rồi cũng đến ngày Sói Xám hết kiên nhẫn.
-
-21
-00:01:25,139 --> 00:01:30,469
-Hắn vén mảnh giẻ của cậu em út sang một bên,
-phá tung cánh cửa ván ép của anh trai cậu,
-
 22
-00:01:30,469 --> 00:01:33,539
-và mở khóa cánh cửa gỗ sồi của
-người anh cả bằng chìa khóa dự phòng.
+00:01:14,727 --> 00:01:16,535
+sống vương giả nhờ vào việc...
 
 23
-00:01:33,539 --> 00:01:41,001
-Sau đó vác các chú lợn con béo ục ịch đến nhà máy
-để chế biến thành những chiếc xúc xích thơm ngon.
+00:01:16,718 --> 00:01:19,828
+bán lại thực phẩm ăn cắp được
+cho các em của mình.
 
 24
-00:01:41,001 --> 00:01:44,124
-Xúc xích sau đó được phân phát cho
-những vị khách thuê nhà khác,
+00:01:20,362 --> 00:01:25,039
+Rồi cũng đến ngày
+Sói Xám hết kiên nhẫn.
 
 25
-00:01:44,124 --> 00:01:51,168
-vì họ đã chăm chỉ theo dõi và tố cáo mọi hành vi
-vi phạm của những chú lợn con cho Sói Xám.
+00:01:25,202 --> 00:01:27,629
+Hắn vén mảnh giẻ của cậu em út
+sang một bên,
 
 26
-00:01:51,168 --> 00:01:56,614
-Sự việc đáng tiếc này xảy ra vì
-những chú lợn đã quên "uống nước nhớ nguồn."
+00:01:27,777 --> 00:01:30,413
+phá tung cánh cửa ván ép
+của anh trai cậu,
 
 27
-00:01:56,614 --> 00:02:03,444
-Nên, hãy nhớ nhé, các bạn nhỏ, dù bạn
-sống kiểu gì đi nữa: chủ nhà biết hết.
+00:01:30,516 --> 00:01:33,555
+và mở khóa cánh cửa gỗ sồi
+của người anh cả với chìa khóa dự phòng.
 
 28
-00:02:03,444 --> 00:02:07,397
+00:01:33,679 --> 00:01:37,922
+Sau đó vác các chú lợn con béo ục ịch
+đến nhà máy
+
+29
+00:01:38,042 --> 00:01:40,867
+để chế biến thành
+những chiếc xúc xích thơm ngon.
+
+30
+00:01:41,007 --> 00:01:44,034
+Xúc xích sau đó được phân phát
+cho những vị khách thuê nhà khác,
+
+31
+00:01:44,124 --> 00:01:48,383
+vì họ đã chăm chỉ theo dõi
+và tố cáo mọi hành vi vi phạm
+
+32
+00:01:48,564 --> 00:01:50,762
+của những chú lợn
+con cho Sói Xám.
+
+33
+00:01:51,275 --> 00:01:54,008
+Sự việc đáng tiếc này xảy ra,
+vì những chú lợn đã quên:
+
+34
+00:01:54,118 --> 00:01:56,314
+"Uống nước nhớ nguồn."
+
+35
+00:01:56,598 --> 00:01:58,314
+Nên, hãy nhớ nhé, các bạn nhỏ,
+
+36
+00:01:58,495 --> 00:02:03,294
+dù bạn sống kiểu gì đi nữa:
+chủ nhà đều biết hết.
+
+37
+00:02:03,442 --> 00:02:07,397
 Hãy hạnh phúc khi không thường xuyên
 có xúc xích để ăn mỗi tối;
 
-29
-00:02:07,397 --> 00:02:11,525
-nghĩa là quanh ta có
-rất ít kẻ phản bội trà trộn!
+38
+00:02:07,518 --> 00:02:11,394
+nghĩa là quanh ta
+có rất ít kẻ phản bội trà trộn!
 

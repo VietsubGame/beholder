@@ -1,84 +1,94 @@
 1
-00:00:00,852 --> 00:00:03,385
+00:00:00,852 --> 00:00:03,509
 Bạn đang sống trong đất nước
 tốt nhất thế giới!
 
 2
-00:00:03,681 --> 00:00:05,889
-Và các quốc gia khác chỉ
-đang phải ghen tị với bạn!
+00:00:03,681 --> 00:00:06,183
+Và các quốc gia khác
+chỉ đang phải ghen tị với bạn!
 
 3
-00:00:06,457 --> 00:00:10,170
+00:00:06,482 --> 00:00:10,068
 Mọi công dân trong nước
 đều nhận được thứ họ cần
 
 4
-00:00:10,170 --> 00:00:12,649
+00:00:10,170 --> 00:00:12,452
 để sống trong hạnh phúc và vô tư:
 
 5
-00:00:12,649 --> 00:00:17,000
-xà phòng, đường, bánh mì và bằng khen!
+00:00:12,649 --> 00:00:16,895
+xà phòng, đường, bánh mì
+và bằng khen!
 
 6
-00:00:17,375 --> 00:00:21,744
+00:00:17,443 --> 00:00:21,660
 Nhưng cần nhớ: kẻ thù của ta
 luôn có những âm mưu chống lại chúng ta!
 
 7
-00:00:21,744 --> 00:00:26,277
-Thật may thay, Lãnh Tụ Vĩ Đại
-của chúng ta đã dễ dàng dập tắt
+00:00:21,790 --> 00:00:23,903
+Thật may thay,
+Lãnh Tụ Vĩ Đại của chúng ta
 
 8
-00:00:26,277 --> 00:00:30,900
-những âm mưu phá hoại mà kẻ thù đang ngầm
-nhắm đến Quốc Gia Vĩ Đại của chúng ta.
+00:00:24,065 --> 00:00:26,132
+đã dễ dàng dập tắt
+những âm mưu phá hoại
 
 9
-00:00:30,900 --> 00:00:33,091
-Tuy nhiên, bạn vẫn luôn phải cảnh giác!
+00:00:26,277 --> 00:00:30,295
+mà kẻ thù đang ngầm nhắm đến
+Quốc Gia Vĩ Đại của chúng ta.
 
 10
-00:00:33,091 --> 00:00:37,731
-Quan sát xung quanh, xác định
-những thành phần phá hoại
+00:00:30,900 --> 00:00:32,995
+Tuy nhiên, bạn vẫn luôn phải cảnh giác!
 
 11
-00:00:37,731 --> 00:00:40,194
-và tố cáo mọi hành vi vi phạm!
+00:00:33,158 --> 00:00:37,614
+Quan sát xung quanh,
+xác định những thành phần phá hoại
 
 12
-00:00:40,194 --> 00:00:42,869
-Đừng để chủ nghĩa đế quốc hiếu chiến
+00:00:37,774 --> 00:00:39,861
+và tố cáo mọi hành vi vi phạm!
 
 13
-00:00:42,869 --> 00:00:46,360
+00:00:40,234 --> 00:00:42,865
+Đừng để chủ nghĩa đế quốc hiếu chiến
+
+14
+00:00:42,972 --> 00:00:46,000
 làm lu mờ vinh quang lao động
 và lòng dũng cảm của chúng ta!
 
-14
-00:00:46,360 --> 00:00:50,909
-Để đẩy lùi các cuộc tấn công thù địch
-và bảo vệ quyền sống của mình,
-
 15
-00:00:50,909 --> 00:00:54,144
+00:00:46,410 --> 00:00:50,730
+Để đẩy lùi các cuộc tấn công thù địch
+và bảo vệ quyền sống như mong muốn,
+
+16
+00:00:50,967 --> 00:00:54,030
 chúng ta sẽ bước đi
 trên con đường riêng của mình,
 
-16
-00:00:54,144 --> 00:00:57,479
+17
+00:00:54,210 --> 00:00:57,355
 và chứng minh rằng
 nhân dân và Đảng là một!
 
-17
-00:00:57,479 --> 00:01:02,216
-Lãnh Tụ Vĩ Đại của chúng ta là đại diện cho
-trí tuệ, danh dự và lương tâm của Nhà nước!
-
 18
-00:01:02,216 --> 00:01:04,564
+00:00:57,572 --> 00:01:00,278
+Lãnh Tụ Vĩ Đại của chúng ta
+là đại diện cho trí tuệ, danh dự
+
+19
+00:01:00,374 --> 00:01:02,060
+và lương tâm của Nhà nước!
+
+20
+00:01:02,216 --> 00:01:04,500
 Chúc Người mãi trường thọ và phồn vinh!
 
